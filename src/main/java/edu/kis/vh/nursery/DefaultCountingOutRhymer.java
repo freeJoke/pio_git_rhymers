@@ -2,9 +2,9 @@ package edu.kis.vh.nursery;
 
 public class DefaultCountingOutRhymer {
 
-    final int EMPTY = -1;
-    final int FULL = 11;
-    final int NUMBERS_SIZE = 12;
+    private final int EMPTY = -1;
+    private final int FULL = 11;
+    private final int NUMBERS_SIZE = 12;
 
     private int[] numbers = new int[NUMBERS_SIZE];
 
